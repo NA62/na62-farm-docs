@@ -2890,7 +2890,7 @@
          sodipodi:role="line"
          id="tspan7417"
          x="-173.56696"
-         y="-1506.3833">Rack 2</tspan></text>
+         y="-1506.3833">Rack 1</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
@@ -2901,7 +2901,7 @@
          sodipodi:role="line"
          id="tspan7417-1"
          x="39.341782"
-         y="-1506.3833">Rack 3</tspan></text>
+         y="-1506.3833">Rack 2</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
@@ -2912,7 +2912,7 @@
          sodipodi:role="line"
          id="tspan7417-8"
          x="251.7997"
-         y="-1506.3833">Rack 4</tspan></text>
+         y="-1506.3833">Rack 3</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
@@ -2923,6 +2923,6 @@
          sodipodi:role="line"
          id="tspan7417-2"
          x="464.69107"
-         y="-1506.3833">Rack 5</tspan></text>
+         y="-1506.3833">Rack 4</tspan></text>
   </g>
 </svg>
