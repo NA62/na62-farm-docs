@@ -11,11 +11,11 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="851.99725"
-   height="663.11212"
+   height="691.96533"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="na62-farm-racks.svg">
+   sodipodi:docname="racks.svg">
   <defs
      id="defs4">
     <marker
@@ -124,9 +124,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="396.52926"
-     inkscape:cy="375.50495"
+     inkscape:zoom="1"
+     inkscape:cx="469.39438"
+     inkscape:cy="272.08648"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -168,7 +168,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(280.40141,1491.2059)">
+     transform="translate(280.40141,1520.0591)">
     <g
        id="g4310"
        transform="translate(-340,-1650)">
@@ -1981,7 +1981,7 @@
          y="-1176.328">Router</tspan></text>
     <g
        id="g5201"
-       transform="translate(392.64638,242.443)">
+       transform="translate(392.29872,242.443)">
       <rect
          y="-1591.0768"
          x="-225.62549"
@@ -2025,7 +2025,7 @@
     </g>
     <g
        id="g5201-7"
-       transform="translate(392.64638,210.9486)">
+       transform="translate(392.29872,210.9486)">
       <rect
          y="-1591.0768"
          x="-225.62549"
@@ -2047,7 +2047,7 @@
     </g>
     <g
        id="g5201-2"
-       transform="translate(392.64638,147.94841)">
+       transform="translate(392.29872,147.94841)">
       <rect
          y="-1591.0768"
          x="-225.62549"
@@ -2421,7 +2421,7 @@
     </g>
     <g
        id="g5201-3-8-3"
-       transform="translate(392.64638,273.87432)">
+       transform="translate(392.29872,273.87432)">
       <rect
          y="-1591.0768"
          x="-225.62549"
@@ -2443,7 +2443,7 @@
     </g>
     <g
        id="g5201-3-3-6"
-       transform="translate(392.64638,336.60012)">
+       transform="translate(392.29872,336.60012)">
       <rect
          y="-1591.0768"
          x="-225.62549"
@@ -2465,7 +2465,7 @@
     </g>
     <g
        id="g5201-3-5-5"
-       transform="translate(392.64638,431.78397)">
+       transform="translate(392.29872,431.78397)">
       <rect
          y="-1591.0768"
          x="-225.62549"
@@ -2487,7 +2487,7 @@
     </g>
     <g
        id="g5201-3-1-6"
-       transform="translate(392.64638,494.76007)">
+       transform="translate(392.29872,494.76007)">
       <rect
          y="-1591.0768"
          x="-225.62549"
@@ -2509,7 +2509,7 @@
     </g>
     <g
        id="g5201-3-03-2"
-       transform="translate(392.64638,557.73583)">
+       transform="translate(392.29872,557.73583)">
       <rect
          y="-1591.0768"
          x="-225.62549"
@@ -2531,7 +2531,7 @@
     </g>
     <g
        id="g5201-3-4-4"
-       transform="translate(392.64638,620.71187)">
+       transform="translate(392.29872,620.71187)">
       <rect
          y="-1591.0768"
          x="-225.62549"
@@ -2553,7 +2553,7 @@
     </g>
     <g
        id="g5201-3-17-0"
-       transform="translate(392.64638,683.68787)">
+       transform="translate(392.29872,683.68787)">
       <rect
          y="-1591.0768"
          x="-225.62549"
@@ -2749,7 +2749,8 @@
            sodipodi:role="line">Dev 1</tspan></text>
     </g>
     <g
-       id="g6863">
+       id="g6863"
+       transform="translate(2.9638671e-6,0)">
       <rect
          y="-844.38568"
          x="-259.08893"
@@ -2770,7 +2771,8 @@
            y="-829.95844">Dev 2</tspan></text>
     </g>
     <g
-       id="g6868">
+       id="g6868"
+       transform="translate(2.9638671e-6,0)">
       <rect
          y="-1489.3331"
          x="-259.08893"
@@ -2792,7 +2794,7 @@
     </g>
     <g
        id="g6878"
-       transform="translate(0.34765875,1.0124842)">
+       transform="translate(1.7089844e-6,1.0124842)">
       <rect
          y="-1491.3834"
          x="166.67323"
@@ -2857,7 +2859,7 @@
            y="-829.95844">Dev 4</tspan></text>
     </g>
     <g
-       transform="translate(426.10982,-0.00954523)"
+       transform="translate(425.76216,-0.00954523)"
        id="g6863-9-0">
       <rect
          y="-844.38568"
@@ -2878,5 +2880,49 @@
            x="-173.56696"
            y="-829.95844">Dev 5</tspan></text>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="-173.56696"
+       y="-1506.3833"
+       id="text7415"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan7417"
+         x="-173.56696"
+         y="-1506.3833">Rack 2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="39.341782"
+       y="-1506.3833"
+       id="text7415-5"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan7417-1"
+         x="39.341782"
+         y="-1506.3833">Rack 3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="251.7997"
+       y="-1506.3833"
+       id="text7415-9"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan7417-8"
+         x="251.7997"
+         y="-1506.3833">Rack 4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="464.69107"
+       y="-1506.3833"
+       id="text7415-8"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan7417-2"
+         x="464.69107"
+         y="-1506.3833">Rack 5</tspan></text>
   </g>
 </svg>
